@@ -1,6 +1,5 @@
-# JAVASCRIPT NOTES
+# JAVASCRIPT NOTES 
 
-## KEYWORDS
 
 keywords are predefined words which have some meaning in javascript. for example :- `for`, `while`, `true`, `false`, `typeof`, `let`, `var`, `const`,  etc.
 
